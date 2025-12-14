@@ -1,11 +1,11 @@
-👋 Hello! I'm **Mohamed Mujtaba Raza**, a software engineer with expertise in Microservices, DevOps, Cloud Native and Mixed Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#.
+👋 Hello! I'm **Mohamed Mujtaba Raza**, a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#.
 
 [I'm in love with my work](https://mohamedmujtabaraza.me/blog/articles/first-article/) because there is always more to learn.
 
 ### Connect with me
 
-[<img align="left" alt="Email Light" width="26px" src="./img/email-light.svg" style="padding-right:10px;" />][email-light]
-[<img align="left" alt="Email Dark" width="26px" src="./img/email-dark.svg" style="padding-right:10px;" />][email-dark]
+[<img align="left" alt="Email Light" width="26px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
+[<img align="left" alt="Email Dark" width="26px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
 &nbsp;&nbsp;
 [<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
 [<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
