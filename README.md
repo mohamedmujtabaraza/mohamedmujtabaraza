@@ -17,20 +17,20 @@ I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C
 <h2 align="left">Connect with me</h2>
 <div align="left">
 
-[<img alt="Email Light" width="22px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
-[<img alt="Email Dark" width="22px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
+[<img alt="Email Light" width="23px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
+[<img alt="Email Dark" width="23px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
 &nbsp;&nbsp;
 [<img alt="Instagram Light" width="20px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
 [<img alt="Instagram Dark" width="20px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
 &nbsp;&nbsp;
-[<img alt="YouTube Light" width="25px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
-[<img alt="YouTube Dark" width="25px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
+[<img alt="YouTube Light" width="26px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
+[<img alt="YouTube Dark" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
 &nbsp;&nbsp;
 [<img alt="X-Twitter Light" width="19px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
 [<img alt="X-Twitter Dark" width="19px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
 &nbsp;&nbsp;
-[<img alt="LinkedIn Light" width="20px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
-[<img alt="LinkedIn Dark" width="20px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
+[<img alt="LinkedIn Light" width="21px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
+[<img alt="LinkedIn Dark" width="21px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
 
 </div>
 
