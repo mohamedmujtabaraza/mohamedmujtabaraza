@@ -2,11 +2,11 @@
 
 test
 
-[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-brands-solid-light.svg" style="padding-right:10px;" />][instagram-light]
-[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-brands-solid-dark.svg" style="padding-right:10px;" />][instagram-dark]
+[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
+[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
 &nbsp;&nbsp;
-[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-brands-solid-light.svg" style="padding-right:10px;" />][instagram-light]
-[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-brands-solid-dark.svg" style="padding-right:10px;" />][instagram-dark]
+[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
+[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
 
 <!--
 **mohamedmujtabaraza/mohamedmujtabaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
