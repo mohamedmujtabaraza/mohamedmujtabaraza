@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Mohamed Mujtaba Raza's GitHub stats](https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=transparent)
-
+### Connect with me
 [<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
 [<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
 &nbsp;&nbsp;
@@ -23,6 +22,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=swift" />][stats-light]
+  [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=dark" />][stats-dark]
+
+</details>
+
 [instagram-light]: https://instagram.com/mohamedmujtabaraza#gh-light-mode-only
 [instagram-dark]: https://instagram.com/mohamedmujtabaraza#gh-dark-mode-only
-
+[stats-light]: https://instagram.com/mohamedmujtabaraza#gh-light-mode-only
+[stats-dark]: https://instagram.com/mohamedmujtabaraza#gh-dark-mode-only
