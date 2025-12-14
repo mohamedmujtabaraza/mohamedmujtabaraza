@@ -1,4 +1,4 @@
-#  Mohamed Mujtaba Raza
+##  Mohamed Mujtaba Raza
 
 Computer Engineer, Microservices, DevOps, Cloud Native and Mixed Reality. I work mainly with Linux, Azure, Kubernetes, Postgres, C# and TypeScript.
 
@@ -12,21 +12,16 @@ Computer Engineer, Microservices, DevOps, Cloud Native and Mixed Reality. I work
 [<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
 [<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
 &nbsp;&nbsp;
-[<img align="left" alt="YouTube Light" width="26px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
-[<img align="left" alt="YouTube Dark" width="26px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
+[<img align="left" alt="YouTube Light" width="32px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
+[<img align="left" alt="YouTube Dark" width="32px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
 &nbsp;&nbsp;
-[<img align="left" alt="X-Twitter Light" width="26px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter]
-[<img align="left" alt="X-Twitter Dark" width="26px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter]
+[<img align="left" alt="X-Twitter Light" width="26px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
+[<img align="left" alt="X-Twitter Dark" width="26px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
 &nbsp;&nbsp;
 [<img align="left" alt="LinkedIn Light" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
 [<img align="left" alt="LinkedIn Dark" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmujtabaraza&label=Profile views&color=0e75b6&style=flat" alt="mohamedmujtabaraza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmujtabaraza" alt="mohamedmujtabaraza" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mohamedmujtabar" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedmujtabar?logo=twitter&style=for-the-badge" alt="mohamedmujtabar" /></a> </p>
+### Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **Cloud Native**
 
@@ -56,10 +51,17 @@ Computer Engineer, Microservices, DevOps, Cloud Native and Mixed Reality. I work
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&locale=en" alt="mohamedmujtabaraza" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmujtabaraza&" alt="mohamedmujtabaraza" /></p>
-
 
 <!--
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmujtabaraza&" alt="mohamedmujtabaraza" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedmujtabaraza&label=Profile views&color=0e75b6&style=flat" alt="mohamedmujtabaraza" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedmujtabaraza" alt="mohamedmujtabaraza" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mohamedmujtabar" target="blank"><img src="https://img.shields.io/twitter/follow/mohamedmujtabar?logo=twitter&style=for-the-badge" alt="mohamedmujtabar" /></a> </p>
+
 **mohamedmujtabaraza/mohamedmujtabaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
