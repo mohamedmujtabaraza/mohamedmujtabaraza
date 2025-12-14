@@ -10,7 +10,7 @@ I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C
 **Frameworks:** ASP.NET, Angular\
 **Backend:** Microservices\
 **Databases:** MySQL, PostgreSQL\
-**Other:** HTML/CSS, API Design, Kafka, REST API\
+**Other:** HTML/CSS, API Design, Kafka, REST API
 
 </div>
 
