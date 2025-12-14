@@ -1,9 +1,11 @@
-<h1 align="left">About me</h1>
+<h1 align="center">Mohamed Mujtaba Raza</h1>
+
+<h2 align="left">About me</h2>
 Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows.
 
 I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
 
-<h1 align="left">Skills</h1>
+<h2 align="left">Skills</h2>
 <div align="left">
   
 **Languages:** C#, TypeScript, Python\
@@ -14,7 +16,7 @@ I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C
 
 </div>
 
-<h1 align="left">Connect with me</h1>
+<h2 align="left">Connect with me</h2>
 <div align="left">
 
 [<img alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
