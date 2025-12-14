@@ -1,11 +1,10 @@
-<h1 align="center">About me</h1>
+<h1 align="left">About me</h1>
 Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows.
 
 I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
 
-<br>
-<h1 align="center">Skills</h1>
-<div align="center">
+<h1 align="left">Skills</h1>
+<div align="left">
   
 **Languages:** C#, TypeScript, Python\
 **Frameworks:** ASP.NET, Angular\
@@ -15,9 +14,8 @@ I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C
 
 </div>
 
-<br>
-<h1 align="center">Connect with me</h1>
-<div align="center">
+<h1 align="left">Connect with me</h1>
+<div align="left">
 
 [<img alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
 [<img alt="Email Dark" width="28px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
@@ -80,13 +78,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
-<h3 align="center">Feel free to reach out if you'd like to collaborate on a project or discuss opportunities!</h3>
-
-<br>
+<h3 align="left">Feel free to reach out if you'd like to collaborate on a project or discuss opportunities!</h3>
 <details>
   <summary><h3>GitHub Stats</h3></summary>
-
+  
   [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=swift" />][stats-light]
   [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=dark" />][stats-dark]
 
