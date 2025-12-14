@@ -1,24 +1,27 @@
-## About me
+<h2 align="center">About me</h2>
 Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. 
 
 I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
 
-## Connect with me
-[<img align="left" alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
-[<img align="left" alt="Email Dark" width="28px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
-&nbsp;&nbsp;
-[<img align="left" alt="Instagram Light" width="24px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
-[<img align="left" alt="Instagram Dark" width="24px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
-&nbsp;&nbsp;
-[<img align="left" alt="YouTube Light" width="32px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
-[<img align="left" alt="YouTube Dark" width="32px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
-&nbsp;&nbsp;
-[<img align="left" alt="X-Twitter Light" width="24px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
-[<img align="left" alt="X-Twitter Dark" width="24px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
-&nbsp;&nbsp;
-[<img align="left" alt="LinkedIn Light" width="24px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
-[<img align="left" alt="LinkedIn Dark" width="24px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
+<h2 align="center">Connect with me</h2>
+<div align="center">
 
+[<img alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
+[<img alt="Email Dark" width="28px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
+&nbsp;&nbsp;
+[<img alt="Instagram Light" width="24px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
+[<img alt="Instagram Dark" width="24px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
+&nbsp;&nbsp;
+[<img alt="YouTube Light" width="32px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
+[<img alt="YouTube Dark" width="32px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
+&nbsp;&nbsp;
+[<img alt="X-Twitter Light" width="24px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
+[<img alt="X-Twitter Dark" width="24px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
+&nbsp;&nbsp;
+[<img alt="LinkedIn Light" width="24px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
+[<img alt="LinkedIn Dark" width="24px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
+
+</div>
 
 ## Skills
 - **Languages:** C#, TypeScript, Python
