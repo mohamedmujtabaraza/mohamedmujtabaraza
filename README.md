@@ -1,33 +1,35 @@
-👋 Hello! I'm **Mohamed Mujtaba Raza**, a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#.
+## About me
 
-[I'm in love with my work](https://mohamedmujtabaraza.me/blog/articles/first-article/) because there is always more to learn.
+Hello! I'm **Mohamed Mujtaba Raza**, a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. 
 
-### Connect with me
+I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
 
-[<img align="left" alt="Email Light" width="26px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
-[<img align="left" alt="Email Dark" width="26px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
+
+## Connect with me
+[<img align="left" alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
+[<img align="left" alt="Email Dark" width="28px" src="./img/envelope-dark.svg" style="padding-right:10px;" />][email-dark]
 &nbsp;&nbsp;
-[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
-[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
+[<img align="left" alt="Instagram Light" width="24px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
+[<img align="left" alt="Instagram Dark" width="24px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
 &nbsp;&nbsp;
 [<img align="left" alt="YouTube Light" width="32px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
 [<img align="left" alt="YouTube Dark" width="32px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
 &nbsp;&nbsp;
-[<img align="left" alt="X-Twitter Light" width="26px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
-[<img align="left" alt="X-Twitter Dark" width="26px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
+[<img align="left" alt="X-Twitter Light" width="24px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
+[<img align="left" alt="X-Twitter Dark" width="24px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
 &nbsp;&nbsp;
-[<img align="left" alt="LinkedIn Light" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
-[<img align="left" alt="LinkedIn Dark" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
+[<img align="left" alt="LinkedIn Light" width="24px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
+[<img align="left" alt="LinkedIn Dark" width="24px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
 
-### Skills
 
+## Skills
 - **Languages:** C#, TypeScript, Python
 - **Frameworks:** ASP.NET, Angular
 - **Backend:** Microservices
 - **Databases:** MySQL, PostgreSQL
 - **Other:** HTML/CSS, API Design, Kafka, REST API
 
-### Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - I'm currently working on **Cloud Native**
 - I'm currently learning **K8S, Typescript, Angular**
