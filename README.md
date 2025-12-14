@@ -82,8 +82,8 @@ Here are some ideas to get you started:
 <details>
   <summary><h3>GitHub Stats</h3></summary>
   
-  [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=swift" />][stats-light]
-  [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=dark" />][stats-dark]
+  [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=dark" />][stats-light]
+  [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=swift" />][stats-dark]
 
 </details>
 
