@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-test
+![Mohamed Mujtaba Raza's GitHub stats](https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=transparent)
 
 [<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
 [<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
