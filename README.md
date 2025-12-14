@@ -2,8 +2,11 @@
 
 test
 
-[<img align="left" alt="Instagram" width="26px" src="./img/instagram-brands-solid.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Instagram2" width="26px" src="./img/instagram-brands-solid.svg" style="padding-right:10px;" />][webdevplaylist2]
+[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-brands-solid-light.svg" style="padding-right:10px;" />][instagram-light]
+[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-brands-solid-dark.svg" style="padding-right:10px;" />][instagram-dark]
+&nbsp;&nbsp;
+[<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-brands-solid-light.svg" style="padding-right:10px;" />][instagram-light]
+[<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-brands-solid-dark.svg" style="padding-right:10px;" />][instagram-dark]
 
 <!--
 **mohamedmujtabaraza/mohamedmujtabaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only
-[webdevplaylist2]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only
+[instagram-light]: https://instagram.com/mohamedmujtabaraza#gh-light-mode-only
+[instagram-dark]: https://instagram.com/mohamedmujtabaraza#gh-dark-mode-only
+
