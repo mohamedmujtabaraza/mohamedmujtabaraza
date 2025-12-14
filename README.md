@@ -1,6 +1,4 @@
-## About me
-
-Hello! I'm **Mohamed Mujtaba Raza**, a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. 
+Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. 
 
 I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
 
