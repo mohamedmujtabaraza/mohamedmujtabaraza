@@ -1,11 +1,11 @@
-👋 Hello! I'm **Mohamed Mujtaba Raza**, a Computer Engineer with expertise in Microservices, DevOps, Cloud Native and Mixed Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#.
+👋 Hello! I'm **Mohamed Mujtaba Raza**, a software engineer with expertise in Microservices, DevOps, Cloud Native and Mixed Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#.
 
 [I'm in love with my work](https://mohamedmujtabaraza.me/blog/articles/first-article/) because there is always more to learn.
 
 ### Connect with me
 
-[<img align="left" alt="Website Light" width="26px" src="./img/globe-light.svg" style="padding-right:10px;" />][website-light]
-[<img align="left" alt="Website Dark" width="26px" src="./img/globe-dark.svg" style="padding-right:10px;" />][website-dark]
+[<img align="left" alt="Email Light" width="26px" src="./img/email-light.svg" style="padding-right:10px;" />][email-light]
+[<img align="left" alt="Email Dark" width="26px" src="./img/email-dark.svg" style="padding-right:10px;" />][email-dark]
 &nbsp;&nbsp;
 [<img align="left" alt="Instagram Light" width="26px" src="./img/instagram-light.svg" style="padding-right:10px;" />][instagram-light]
 [<img align="left" alt="Instagram Dark" width="26px" src="./img/instagram-dark.svg" style="padding-right:10px;" />][instagram-dark]
@@ -19,26 +19,24 @@
 [<img align="left" alt="LinkedIn Light" width="26px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
 [<img align="left" alt="LinkedIn Dark" width="26px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
 
+### Skills
+
+- **Languages:** C#, TypeScript, Python
+- **Frameworks:** ASP.NET, Angular
+- **Backend:** Microservices
+- **Databases:** MySQL, PostgreSQL
+- **Other:** HTML/CSS, API Design, Kafka, REST API
+
 ### Here are some ideas to get you started:
 
-- 🔭 I'm currently working on **Cloud Native**
-
-- 🌱 I'm currently learning **K8S, Typescript, Angular**
-
-- 👯 I'm looking to collaborate on **building impactful products**
-
-- 🤝 I'm looking for help with **learning system design**
-
-- 💬 Ask me about **Kubernetes, Microservices and web development**
-
-- 📫 How to reach me **contact@mohamedmujtabaraza.me**
-
-- ⚡ Fun fact **There are only 21 million Bitcoins that can be mined in total.**
-
+- I'm currently working on **Cloud Native**
+- I'm currently learning **K8S, Typescript, Angular**
+- I'm looking to collaborate on **building impactful products**
+- I'm looking for help with **learning system design**
+- Ask me about **Kubernetes, Microservices and web development**
+- Fun fact **There are only 21 million Bitcoins that can be mined in total.**
 - 👨‍💻 All of my projects are available at **[https://mohamedmujtabaraza.me](https://mohamedmujtabaraza.me)**
-
 - 📝 I regularly write articles on **[https://blog.mohamedmujtabaraza.me](https://blog.mohamedmujtabaraza.me)**
-
 - 📄 Know about my experiences **[https://resume.mohamedmujtabaraza.me](https://resume.mohamedmujtabaraza.me)**
 
 
@@ -48,7 +46,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmujtabaraza&show_icons=true&locale=en&layout=compact" alt="mohamedmujtabaraza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&locale=en" alt="mohamedmujtabaraza" /></p>
-
 
 <!--
 
@@ -82,8 +79,10 @@ Here are some ideas to get you started:
 
 </details>
 
-[website-light]: https://mohamedmujtabaraza.me#gh-light-mode-only
-[website-dark]: https://mohamedmujtabaraza.me#gh-dark-mode-only
+Feel free to reach out if you'd like to collaborate on a project or discuss opportunities!
+
+[email-light]: https://mohamedmujtabaraza.me#gh-light-mode-only
+[email-dark]: https://mohamedmujtabaraza.me#gh-dark-mode-only
 [instagram-light]: https://instagram.com/mohamedmujtabaraza#gh-light-mode-only
 [instagram-dark]: https://instagram.com/mohamedmujtabaraza#gh-dark-mode-only
 [youtube-light]: https://youtube.com/@mohamedmujtabaraza#gh-light-mode-only
