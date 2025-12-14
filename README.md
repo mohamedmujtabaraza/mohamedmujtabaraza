@@ -1,7 +1,7 @@
+## About me
 Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. 
 
 I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
-
 
 ## Connect with me
 [<img align="left" alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
@@ -71,15 +71,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Feel free to reach out if you'd like to collaborate on a project or discuss opportunities!
+
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary><h3>GitHub Stats</h3></summary>
 
   [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=swift" />][stats-light]
   [<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-indol-ten-47.vercel.app/api?username=mohamedmujtabaraza&show_icons=true&theme=dark" />][stats-dark]
 
 </details>
-
-Feel free to reach out if you'd like to collaborate on a project or discuss opportunities!
 
 [email-light]: https://mohamedmujtabaraza.me#gh-light-mode-only
 [email-dark]: https://mohamedmujtabaraza.me#gh-dark-mode-only
