@@ -26,8 +26,8 @@ I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C
 [<img alt="YouTube Light" width="25px" src="./img/youtube-light.svg" style="padding-right:10px;" />][youtube-light]
 [<img alt="YouTube Dark" width="25px" src="./img/youtube-dark.svg" style="padding-right:10px;" />][youtube-dark]
 &nbsp;&nbsp;
-[<img alt="X-Twitter Light" width="18px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
-[<img alt="X-Twitter Dark" width="18px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
+[<img alt="X-Twitter Light" width="19px" src="./img/x-twitter-light.svg" style="padding-right:10px;" />][x-twitter-light]
+[<img alt="X-Twitter Dark" width="19px" src="./img/x-twitter-dark.svg" style="padding-right:10px;" />][x-twitter-dark]
 &nbsp;&nbsp;
 [<img alt="LinkedIn Light" width="20px" src="./img/linkedin-light.svg" style="padding-right:10px;" />][linkedin-light]
 [<img alt="LinkedIn Dark" width="20px" src="./img/linkedin-dark.svg" style="padding-right:10px;" />][linkedin-dark]
