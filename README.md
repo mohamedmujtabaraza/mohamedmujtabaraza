@@ -1,6 +1,4 @@
-##  Mohamed Mujtaba Raza
-
-Computer Engineer, Microservices, DevOps, Cloud Native and Mixed Reality. I work mainly with Linux, Azure, Kubernetes, Postgres, C# and TypeScript.
+👋 Hello! I'm **Mohamed Mujtaba Raza**, a Computer Engineer with expertise in Microservices, DevOps, Cloud Native and Mixed Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows. I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#.
 
 [I'm in love with my work](https://mohamedmujtabaraza.me/blog/articles/first-article/) because there is always more to learn.
 
