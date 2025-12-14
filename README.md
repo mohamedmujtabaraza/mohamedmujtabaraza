@@ -2,6 +2,9 @@
 
 test
 
+[<img align="left" alt="Instagram" width="26px" src="./img/instagram-brands-solid.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Instagram2" width="26px" src="./img/instagram-brands-solid.svg" style="padding-right:10px;" />][webdevplaylist2]
+
 <!--
 **mohamedmujtabaraza/mohamedmujtabaraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only
+[webdevplaylist2]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only
