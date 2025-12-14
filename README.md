@@ -1,10 +1,10 @@
-<h2 align="center">About me</h2>
+<h1 align="center">About me</h1>
 Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows.
 
 I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C#. I'm in love with my work because there is always more to learn.
 
 <br>
-<h2 align="center">Skills</h2>
+<h1 align="center">Skills</h1>
 <div align="center">
   
 **Languages:** C#, TypeScript, Python\
@@ -16,7 +16,7 @@ I work mainly with Linux, Azure, Kubernetes, Postgres, Angular, TypeScript and C
 </div>
 
 <br>
-<h2 align="center">Connect with me</h2>
+<h1 align="center">Connect with me</h1>
 <div align="center">
 
 [<img alt="Email Light" width="28px" src="./img/envelope-light.svg" style="padding-right:10px;" />][email-light]
