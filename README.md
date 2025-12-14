@@ -1,5 +1,3 @@
-<h1 align="center">Mohamed Mujtaba Raza</h1>
-
 <h2 align="left">About me</h2>
 Hello! I'm a software engineer with expertise in Microservices, DevOps, Cloud Native and Virtual Reality. I'm passionate about building efficient web applications, optimizing backend systems, and automating workflows.
 
